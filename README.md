@@ -1,16 +1,88 @@
-## Hi there 👋
+👋 Olá! Eu sou Gabriel Oliveira e Bem-vindo ao meu repositório! 
 
-<!--
-**gooliveira187-cmyk/gooliveira187-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aqui você encontra meus projetos de programação, automação Web e APIs com objetivo de conseguir oportunidades 
+como QA Sênior e demonstrar minhas habilidades a cada aprendizado! 🧑‍💻
 
-Here are some ideas to get you started:
+QA Analyst | Test Automation | Developer | API Testing | Selenium | Rest Assured | Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+🚀 Sobre mim
+
+
+
+✔ 8+ anos em Qualidade de Software
+
+✔ Experiência em projetos bancários
+
+✔ Automação Web e API
+
+✔ Java • Python • Selenium • Rest Assured • SQL • Git • Maven • Cypress 
+
+
+🎯 Atualmente estudando
+
+• Selenium
+
+• Rest Assured
+
+• CI/CD
+
+• GitHub Actions
+
+• Playwright
+
+• Python
+
+• Inteligência Artificial Generativa e Engenharia de Prompts
+
+
+
+
+🛠 Tecnologias
+
+(Java)
+
+(Python)
+
+(Selenium)
+
+(Rest Assured)
+
+(Postman)
+
+(SQL)
+
+(Git)
+
+(Maven)
+
+(JUnit)
+
+(TestNG)
+
+(Cypress)
+
+(Playright)
+
+
+
+
+📂 Projetos em destaque
+
+➡ Framework Selenium
+
+➡ Framework Rest Assured
+
+➡ Cypress Automation
+
+➡ SOAP Testing
+
+
+
+
+📫 Contato
+
+LinkedIn: https://www.linkedin.com/in/gabriel-nascimento-a6114997/
+
+Email: gbol22@outlook.com | gooliveira187@gmail.com 
