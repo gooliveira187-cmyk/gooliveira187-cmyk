@@ -1,7 +1,7 @@
 👋 Olá! Eu sou Gabriel Oliveira e seja bem-vindo ao meu repositório! 
 
 Aqui você encontra meus projetos de programação, automação Web e APIs com objetivo de conseguir oportunidades 
-como QA Sênior e demonstrar minhas habilidades a cada aprendizado! 🧑‍💻
+como QA e demonstrar minhas habilidades a cada aprendizado! 🧑‍💻
 
 QA Analyst | Test Automation | Developer | API Testing | Selenium | Rest Assured | Java
 
